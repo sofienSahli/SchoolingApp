@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refuser_fiche"
+        android:title="Refuser l'encadrement" />
+    <item
+        android:id="@+id/accepter_fiche"
+        android:title="Accepter l'encadrement" />
+
+</menu>

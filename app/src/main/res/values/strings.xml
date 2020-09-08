@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SchoolingApp</string>
+    <string name="title_activity_espace_etudiant">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map_key">pk.eyJ1Ijoic29maWVuc2FobGkiLCJhIjoiY2tkN2JoczZrMDRiODJ5azZlMGR6enp2byJ9.VikuY1WPNabxugaCQ7Ql3Q</string>
+    <string name="gmap_key">AIzaSyDOH-0Qp7QF6OO89lj7tl2jdu7YVTFepyE</string>
+    <string-array name="classes">
+        <item> 4SIM2</item>
+        <item> 4GL3</item>
+        <item> 5SIM2</item>
+        <item> 3A11</item>
+        <item> 3A22</item>
+        <item> 2A1</item>
+
+    </string-array>
+
+    <string-array name="leaves">
+        <item> Maladie</item>
+        <item> Sans solde</item>
+        <item> Flexi</item>
+        <item> Payé</item>
+    </string-array>
+    <string-array name="bac">
+        <item> Economie et gestion</item>
+        <item> Technologie</item>
+        <item> Mathematique</item>
+        <item> Science de la vie et de la terre</item>
+        <item> Lettre</item>
+        <item> Informatique</item>
+
+    </string-array>
+
+    <string-array name="villes">
+        <item> Ariana</item>
+        <item> Béja</item>
+        <item> Ben Arous</item>
+        <item> Bizerte</item>
+        <item> Gabès</item>
+        <item> Gafsa</item>
+        <item> Jendouba</item>
+        <item> Kairouan</item>
+        <item> Kasserine</item>
+        <item> Kebili</item>
+        <item> Kef</item>
+        <item> Mahdia</item>
+        <item> Manouba</item>
+        <item> Medenine</item>
+        <item> Monastir</item>
+        <item> Nabeul</item>
+        <item> Sfax</item>
+        <item> Sidi Bouzid</item>
+        <item> Siliana</item>
+        <item> Sousse</item>
+        <item> Tataouine</item>
+        <item> Tunis</item>
+        <item> Zaghouan</item>
+    </string-array>
+
+    <string-array name="specialite">
+        <item> all </item>
+        <item> Java</item>
+        <item> PHP</item>
+        <item> Javascript</item>
+        <item> .NET</item>
+        <item> Inteligence Artificiel </item>
+        <item> Conception logiciel et langage UML  </item>
+        <item> Technologie Mobile</item>
+        <item> IOS  </item>
+        <item> B.I </item>
+
+
+    </string-array>
+</resources>
